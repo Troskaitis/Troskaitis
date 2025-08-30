@@ -4,6 +4,8 @@
 
 I'm a professional with a degree in Information Technology and Data Science, and a postgraduate specialization in Data Engineer. I have experience in data analysis and engineering projects, from data collection and processing to generating valuable business insights. I'm currently seeking international opportunities and I'm passionate about learning, structuring data, and delivering impactful analytical solutions.
 
+###  Follow:
+
 <div>
 <a href="https://www.instagram.com/rodrigo_kaitis/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
