@@ -35,4 +35,3 @@ I'm a professional with a degree in Information Technology and Data Science, and
 <br/>
 ---
 
-![Snake animation](https://github.com/Troskaitis/Troskaitis/blob/output/github-contribution-grid-snake.svg)
