@@ -11,7 +11,8 @@ I'm a professional with a degree in Information Technology and Data Science, and
 <a href="https://www.linkedin.com/in/rodrigo-troskaitis-03b813139/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<br/>
+### Tools and Stats
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Power BI" width="20px" style="padding-right:10px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-BI.svg" />
 <img align="left" alt="SQL Server" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
