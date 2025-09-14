@@ -30,6 +30,5 @@ I'm a professional with a degree in Information Technology and Data Science, and
 <div>
 <a href="https://github.com/Troskaitis">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troskaitis&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Troskaitis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br/>
