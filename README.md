@@ -27,8 +27,4 @@ I'm a professional with a degree in Information Technology and Data Science, and
 
 <br/>
 <br/>
-<div>
-<a href="https://github.com/Troskaitis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troskaitis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br/>
+
